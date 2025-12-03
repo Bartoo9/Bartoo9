@@ -1,5 +1,5 @@
 # About Me:
-🔭 Currently looking for opportunities to collaborate on impactful projects<br>👯 Researcher/Engineer with experience in VLA Robotics models, Bioacoustic AI, multi agent systems<br>🌱 I’m currently learning C++
+🔭 Currently looking for opportunities to collaborate on impactful projects<br>👯 Researcher/Engineer with experience in VLA Robotics models, Computational Bioacoustics, Multi Agent Systems<br>🌱 I’m currently learning C++, Software Development
 
 
 ## 🌐 Socials:
