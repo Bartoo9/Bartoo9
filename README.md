@@ -14,4 +14,4 @@
 
 ---
 # Our Fraka:
-![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif)
+![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif)![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3gf2.gif)
