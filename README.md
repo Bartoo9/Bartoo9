@@ -13,6 +13,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Bartoo9&limit=1&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-Our Fraka:
-![]
-(https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif)
+# Our Fraka:
+![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif)
