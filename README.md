@@ -13,7 +13,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Bartoo9&limit=1&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-# Our Fraka:
+# Our Franka:
 Demo shows the VLA framework predicting actions on picking up and stacking the blocks.
 
 <p align="center">
