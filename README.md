@@ -16,4 +16,10 @@
 # Our Fraka:
 Demo shows the VLA framework predicting actions on picking up and stacking the blocks.
 
+<p align="center">
+  <img src="https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif" width="200">
+  <img src="https://github.com/Bartoo9/Bartoo9/blob/main/ae3gf2.gif" width="200">
+  <img src="https://github.com/Bartoo9/Bartoo9/blob/main/IMG-20241113-WA0006.jpg" width='200'>
+</p>
+
 ![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3g72.gif)   ![](https://github.com/Bartoo9/Bartoo9/blob/main/ae3gf2.gif) ![](https://github.com/Bartoo9/Bartoo9/blob/main/IMG-20241113-WA0006.jpg)
